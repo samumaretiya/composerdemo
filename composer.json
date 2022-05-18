@@ -19,7 +19,7 @@
     "autoload": {
       "files": [ "registration.php" ],
       "psr-4": {
-        "NoFraud\\Connect\\": ""
+        "Samumaretiya\\Helloworld\\": ""
       }
     }
   }
